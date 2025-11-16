@@ -1,10 +1,6 @@
 # go-project-template
 
-An opinionated template for Go projects.
-
-* vscode
-* devbox
-* aider
+An opinionated template for building Go projects in vscode.
 
 https://github.com/user-attachments/assets/5737e02a-55ce-4120-b184-8b2966bdce2d
 
